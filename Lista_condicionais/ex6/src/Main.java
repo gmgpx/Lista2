@@ -19,7 +19,7 @@ public class Main {
 
         }else{
 
-            System.out.print("Código inválido");
+            System.out.print("Código inválido: "+n1);
 
         }
     }
